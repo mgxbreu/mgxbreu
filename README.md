@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mgxbreu
 - 👀 I’m interested in seeing an AI take over us
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on anything I can hel
+- 💞️ I’m looking to collaborate on anything I can help
 - 📫 How to reach me: Just say my name c:
 
 <!---
